@@ -33,14 +33,14 @@ function Achivments() {
             <div className="container-fluid">
                 <div className="row project-row" >
 
-                    <ProjectCom img="../../certificates/eduonix-js-jquery.jpg" title="Frontend Developer" details="Hamdan Classes (Offline)" />
+                    <ProjectCom img="../../certificates/eduonix-js-jquery.jpg" title="Frontend Developer" details="Niche website project" />
 
-                    <ProjectCom img="../../certificates/full-stack-web.jpg" title="Udemy Certificate" details="Full Stavck Web Developer" />
+                    <ProjectCom img="../../certificates/full-stack-web.jpg" title="Udemy Certificate" details="React-js Web Developer" />
 
                     <ProjectCom img="../../certificates/eduonix-js-jquery.jpg" title="Eduonix Certificate" details="Javascript and Jquery Course" />
                     
 
-                    <ProjectCom img="../../certificates/full-stack-web.jpg" title="Backend Developer" details="Hamdan Classes (Offline)" />
+                    <ProjectCom img="../../certificates/full-stack-web.jpg" title="Backend Developer" details="" />
  
  
                 </div>
