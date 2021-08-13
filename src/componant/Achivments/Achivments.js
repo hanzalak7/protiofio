@@ -35,9 +35,9 @@ function Achivments() {
 
                     <ProjectCom img="../../certificates/eduonix-js-jquery.jpg" title="Frontend Developer" details="Niche website project" />
 
-                    <ProjectCom img="../../certificates/full-stack-web.jpg" title="Udemy Certificate" details="React-js Web Developer" />
+                    <ProjectCom img="../../certificates/full-stack-web.jpg" title="React Js Certificate" details="React-js Web Developer" />
 
-                    <ProjectCom img="../../certificates/eduonix-js-jquery.jpg" title="Eduonix Certificate" details="Javascript and Jquery Course" />
+                    <ProjectCom img="../../certificates/3" title="Responsive  Certificate" details="Complete Responsive Web Development" />
                     
 
                     <ProjectCom img="../../certificates/full-stack-web.jpg" title="Backend Developer" details="" />
