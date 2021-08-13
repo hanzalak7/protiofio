@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+.project-nav{ 
+    margin-top: 20px;
+}
+
+.project-nav *{  
+    font-size: 20px;
+    transition: 0.1s;
+    text-decoration: none; 
+    outline:none;
+} 
+.active{
+    color:orange !important;   
+    font-size: 22px !important; 
+}
+.project-outer{
+    height:350px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.project-inner{ 
+    box-shadow: 0px 0px 10px gray;
+    margin: 0px;
+    padding:10px;
+    height: 90%;
+    transition: 0.4s;
+      &:hover{
+        transform:scale(1.1);
+      }
+      h5{
+          margin-top: 7px;
+      }
+  }
+.main-box{
+    box-shadow: 0px 0px 10px gray;  
+    height: 100%;
+    width: 100%;
+    transition: 0.4s;   
+      &:hover{
+        transform:scale(1.1);
+      }
+}
+.project-child{
+    margin-bottom: 20px;
+}
