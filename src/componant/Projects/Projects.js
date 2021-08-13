@@ -84,21 +84,21 @@ function Projects() {
             <div className="container-fluid">
                 <div className="row project-row" >
 
-                    <ProjectCom img="../../images/portfolio.jpg" github="https://github.com/omkar-shinde-96k" priview="" title=" Instagram Clone " details="HTML , SCSS , Javascript , React Js , NodeJS , ExpressJS , MongoDB" />
+                    <ProjectCom img="../../images/portfolio.jpg" github="https://github.com/hkjava6" priview="" title=" Instagram Clone " details="HTML , SCSS , Javascript , React Js , NodeJS , ExpressJS , MongoDB" />
 
-                    <ProjectCom img="../../images/dgtc.jpg" github="https://github.com/omkar-shinde-96k" priview="https://mangaonseniorcollege.com/" title="DGTC College Website " details="HTML , CSS , Javascript , Bootstrap , Jquery , React Js " />
+                    <ProjectCom img="../../images/dgtc.jpg" github="https://github.com/hkjava6" priview="https://mangaonseniorcollege.com/" title="DGTC College Website " details="HTML , CSS , Javascript , Bootstrap , Jquery , React Js " />
 
-                    <ProjectCom img="../../images/amazon.jpg" github="https://github.com/omkar-shinde-96k" priview="" title=" Amazon Clone " details="HTML , SCSS , Javascript , React Js , NodeJS , ExpressJS , MongoDB" />
+                    <ProjectCom img="../../images/amazon.jpg" github="https://github.com/hkjava6" priview="" title=" Amazon Clone " details="HTML , SCSS , Javascript , React Js , NodeJS , ExpressJS , MongoDB" />
 
-                    <ProjectCom img="../../images/mvflex.jpg" github="https://github.com/omkar-shinde-96k" priview="http://downloadmovies.unaux.com/" title="Movie Downloading Site" details="HTML 5, CSS 3, Javascript , Bootstrap , Jquery" />
+                    <ProjectCom img="../../images/mvflex.jpg" github="https://github.com/hkjava6" priview="http://downloadmovies.unaux.com/" title="Movie Downloading Site" details="HTML 5, CSS 3, Javascript , Bootstrap , Jquery" />
 
-                    <ProjectCom img="../../images/weather.jpg" github="https://github.com/omkar-shinde-96k" priview="https://live-weather-today.herokuapp.com/" title="Live Weather App" details="HTML , SCSS , Javascript , Bootstrap , React Js" />
+                    <ProjectCom img="../../images/weather.jpg" github="https://github.com/hkjava6" priview="https://live-weather-today.herokuapp.com/" title="Live Weather App" details="HTML , SCSS , Javascript , Bootstrap , React Js" />
 
-                    <ProjectCom img="../../images/webwhatsapp.jpg" github="https://github.com/omkar-shinde-96k" priview="http://whatsappweb.unaux.com" title="Web Whatsapp UI" details="HTML 5 , SCSS 3 , Javascript , Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " />
+                    <ProjectCom img="../../images/webwhatsapp.jpg" github="https://github.com/hkjava6" priview="http://whatsappweb.unaux.com" title="Web Whatsapp UI" details="HTML 5 , SCSS 3 , Javascript , Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " />
 
-                    <ProjectCom img="../../images/portfolio.jpg" github="https://github.com/omkar-shinde-96k" priview="" title="Portfolio Website" details="HTML5 , CSS3 , Javascript , Bootstrap , React Js" />
+                    <ProjectCom img="../../images/portfolio.jpg" github="https://github.com/hkjava6" priview="" title="Portfolio Website" details="HTML5 , CSS3 , Javascript , Bootstrap , React Js" />
 
-                    <ProjectCom img="../../images/calc.jpg" github="https://github.com/omkar-shinde-96k" priview="http://onlinecalculator.unaux.com/" title="Online Calculator" details=" &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML 5, CSS 3, Javascript  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " />
+                    <ProjectCom img="../../images/calc.jpg" github="https://github.com/hkjava6" priview="http://onlinecalculator.unaux.com/" title="Online Calculator" details=" &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTML 5, CSS 3, Javascript  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " />
 
 
                     {/*  
