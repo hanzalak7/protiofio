@@ -46,7 +46,7 @@ function Navbar() {
                 </p>
                 <br />
                 <div style={{ display: "flex" }}>
-                    <a href="" className="mybtn text-center"> Hire Me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/919309120138" className="mybtn text-center"> Download CV</a>
+                    <a href="" className="mybtn text-center"> Hire Me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/917709229063" className="mybtn text-center"> Download CV</a>
                 </div>
                 <div className="social-icons">
                     <a href="https://github.com/hkjava6" class="fa fa-github"></a>
