@@ -37,7 +37,7 @@ function Achivments() {
 
                     <ProjectCom img="../../certificates/full-stack-web.jpg" title="React Js Certificate" details="React-js Web Developer" />
 
-                    <ProjectCom img="../../certificates/3" title="Responsive  Certificate" details="Complete Responsive Web Development" />
+                    <ProjectCom img="../../certificates/3.jpg" title="Responsive  Certificate" details="Complete Responsive Web Development" />
                     
 
                     <ProjectCom img="../../certificates/full-stack-web.jpg" title="Backend Developer" details="" />
