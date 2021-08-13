@@ -86,7 +86,7 @@ function Projects() {
 
                     <ProjectCom img="../../images/portfolio.jpg" github="https://github.com/hkjava6" priview="" title=" Instagram Clone " details="HTML , SCSS , Javascript , React Js , NodeJS , ExpressJS , MongoDB" />
 
-                    <ProjectCom img="../../images/dgtc.jpg" github="https://github.com/hkjava6" priview="https://mangaonseniorcollege.com/" title="DGTC College Website " details="HTML , CSS , Javascript , Bootstrap , Jquery , React Js " />
+                    <ProjectCom img="../../images/dgtc.jpg" github="https://github.com/hkjava6" priview="https://mangaonseniorcollege.com/" title="DGT College Website " details="HTML , CSS , Javascript , Bootstrap , Jquery , React Js " />
 
                     <ProjectCom img="../../images/amazon.jpg" github="https://github.com/hkjava6" priview="" title=" Amazon Clone " details="HTML , SCSS , Javascript , React Js , NodeJS , ExpressJS , MongoDB" />
 
