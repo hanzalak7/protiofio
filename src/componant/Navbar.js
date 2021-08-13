@@ -42,7 +42,7 @@ function Navbar() {
                     <span class="wrap"></span>
                 </h1>
                 <p>
-                    I am passionate about building excellent Website that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations. What would you do if you had a software expert available at your fingertips?
+                  Last year in graduation of B.sc (Information Technology).  I’ve built a few projects by myself and I’m looking for a role where I can grow and learn from other experienced team members.
                 </p>
                 <br />
                 <div style={{ display: "flex" }}>
