@@ -41,9 +41,9 @@ function Navbar() {
                 <h1 class="typewrite" data-period="2000" data-type='[ "Web Devloper", "React Developer", "Web Designer"  ]'>
                     <span class="wrap"></span>
                 </h1>
-                <p>
-                  Last year in graduation of B.sc (Information Technology).  I’ve built a few projects by myself and I’m looking for a role where I can grow and learn from other experienced team members.
-                </p>
+//                 <p>
+//                   Last year in graduation of B.sc (Information Technology).  I’ve built a few projects by myself and I’m looking for a role where I can grow and learn from other experienced team members.
+//                 </p>
                 <br />
                 <div style={{ display: "flex" }}>
                     <a href="https://wa.me/917709229063" className="mybtn text-center"> Hire Me</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="" className="mybtn text-center"> Download CV</a>
@@ -52,7 +52,7 @@ function Navbar() {
                     <a href="https://github.com/hkjava6" class="fa fa-github"></a>
                     <a href="tel:7709229063" class="fa fa-phone"></a>
                     <a href="https://wa.me/917709229063" class="fa fa-whatsapp"></a>
-                    <a href="mailto:hanzala016@gmail.com" class="fa fa-envelope"></a>
+                    <a href="mailto:hanzala7000k@gmail.com" class="fa fa-envelope"></a>
                     <a href="https://www.linkedin.com/in/hanzala-kathewadi-810ba9219/" class="fa fa-linkedin"></a>
                 </div>
 
@@ -78,7 +78,7 @@ function Navbar() {
                 <a href="https://wa.me/917709229063" class="twitter"><i class="fa fa-whatsapp"></i></a>
                 <a href="https://www.instagram.com/hanzala.real/" class="instagram"><i class="fa fa-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/hanzala-kathewadi-810ba9219/" class="linkedin"><i class="fa fa-linkedin"></i></a>
-                <a href="mailto:hanzala016@gmail.com" class="facebook"><i class="fa fa-envelope"></i></a>
+                <a href="mailto:hanzala7000k@gmail.com" class="facebook"><i class="fa fa-envelope"></i></a>
             </div>
         </>
     )
